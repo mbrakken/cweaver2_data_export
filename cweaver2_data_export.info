@@ -1,0 +1,5 @@
+name = Community Weaver 2 Data Export
+description = general tweaks for buildftw.org
+package = Custom
+core = 6.x
+;dependencies [] 
